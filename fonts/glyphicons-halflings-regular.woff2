@@ -1,0 +1,887 @@
+<!DOCTYPE html><html lang="ru-RU"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" id="ao_optimized_gfonts" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300&#038;subset=latin%2Clatin-ext"><link rel="profile" href="http://gmpg.org/xfn/11"><link type="text/css" media="all" href="../css/autoptimize_fdec4d155254befa138b0980ce9a2918.css" rel="stylesheet"><link type="text/css" media="only screen and (max-width: 768px)" href="../css/autoptimize_dcb2de333eec7ab4ae31385ed8d6a393.css" rel="stylesheet"><link type="text/css" media="screen" href="../css/autoptimize_3b73ab0e52eb6b1c433a026d30c1a81f.css" rel="stylesheet"><title>Страница не найдена | Kitchen</title><meta name="robots" content="noindex,follow"><meta property="og:locale" content="ru_RU"><meta property="og:type" content="object"><meta property="og:title" content="Страница не найдена | Kitchen"><meta property="og:site_name" content="Kitchen"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Страница не найдена | Kitchen"><link rel="dns-prefetch" href="//s.w.org"><link href="https://fonts.gstatic.com" crossorigin="anonymous" rel="preconnect"><link rel="alternate" type="application/rss+xml" title="Kitchen &raquo; Лента" href="http://cafe-kitchen.ru/feed/"><link rel="alternate" type="application/rss+xml" title="Kitchen &raquo; Лента комментариев" href="http://cafe-kitchen.ru/comments/feed/"> <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cafe-kitchen.ru\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);</script> <link rel="stylesheet" id="dashicons-css" href="../css/dashicons.min.css" type="text/css" media="all"> <script type="text/javascript" src="../js/jquery.js"></script> <script type="text/javascript" src="../js/tinymce.min.js"></script> <script type="text/javascript" src="../js/plugin.min.js"></script> <link rel="https://api.w.org/" href="http://cafe-kitchen.ru/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cafe-kitchen.ru/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cafe-kitchen.ru/wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 5.1.9"><meta name="generator" content="WooCommerce 3.5.5"><meta name="follow.it-verification-code-S1lSOHFsdVdkWXpYNTkxNlQ1ZnkwKzdBYTQ1U2ExcW91MW5FM1V6NWdzaTJaaXMwb3JMTGhFRHdaSVNGWjNVM1RuL2YyMlBQdVpsRDFJMnlxQm5ZSEY4SlJXcUk1ejZDVmlqeklaTzFKLzJ5UkVYdlBMT3dMYkNQMEJ3clQvMGV8bjEyVmRNM05kakgxdXhXSFRhOFMyNEU1OXNzWWdIU281MDNaVE9YbEpvZz0=" content="hR6gjfNUlQmysCPb4jaq"> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>  <script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');</script>  <script type="text/javascript">fbq('init', '593342344765783', [], {
+    "agent": "wordpress-5.1.9-1.8.0"
+});</script><script type="text/javascript">fbq('track', 'PageView', []);</script>  <noscript> <img height="1" width="1" style="display:none" alt="fbpx" src="../tr"> </noscript><meta name="generator" content="Powered by Slider Revolution 5.4.7.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."><link rel="icon" href="../images/icon.png" sizes="32x32"><link rel="icon" href="../images/icon.png" sizes="192x192"><link rel="apple-touch-icon-precomposed" href="../images/icon.png"><meta name="msapplication-TileImage" content="http://cafe-kitchen.ru/wp-content/uploads/2019/02/icon.png"> <script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script> <style>button#responsive-menu-button,
+#responsive-menu-container {
+    display: none;
+    -webkit-text-size-adjust: 100%;
+}
+
+@media screen and (max-width: 890px) {
+
+    #responsive-menu-container {
+        display: block;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        z-index: 99998;
+        padding-bottom: 5px;
+        margin-bottom: -5px;
+        outline: 1px solid transparent;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box {
+        width: 100%;
+        padding: 0 2%;
+        border-radius: 2px;
+        height: 50px;
+        -webkit-appearance: none;
+    }
+
+    #responsive-menu-container.push-left,
+    #responsive-menu-container.slide-left {
+        transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
+        -webkit-transform: translateX(-100%);
+        -moz-transform: translateX(-100%);
+    }
+
+    .responsive-menu-open #responsive-menu-container.push-left,
+    .responsive-menu-open #responsive-menu-container.slide-left {
+        transform: translateX(0);
+        -ms-transform: translateX(0);
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+    }
+
+    #responsive-menu-container.push-top,
+    #responsive-menu-container.slide-top {
+        transform: translateY(-100%);
+        -ms-transform: translateY(-100%);
+        -webkit-transform: translateY(-100%);
+        -moz-transform: translateY(-100%);
+    }
+
+    .responsive-menu-open #responsive-menu-container.push-top,
+    .responsive-menu-open #responsive-menu-container.slide-top {
+        transform: translateY(0);
+        -ms-transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+    }
+
+    #responsive-menu-container.push-right,
+    #responsive-menu-container.slide-right {
+        transform: translateX(100%);
+        -ms-transform: translateX(100%);
+        -webkit-transform: translateX(100%);
+        -moz-transform: translateX(100%);
+    }
+
+    .responsive-menu-open #responsive-menu-container.push-right,
+    .responsive-menu-open #responsive-menu-container.slide-right {
+        transform: translateX(0);
+        -ms-transform: translateX(0);
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+    }
+
+    #responsive-menu-container.push-bottom,
+    #responsive-menu-container.slide-bottom {
+        transform: translateY(100%);
+        -ms-transform: translateY(100%);
+        -webkit-transform: translateY(100%);
+        -moz-transform: translateY(100%);
+    }
+
+    .responsive-menu-open #responsive-menu-container.push-bottom,
+    .responsive-menu-open #responsive-menu-container.slide-bottom {
+        transform: translateY(0);
+        -ms-transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+    }
+
+    #responsive-menu-container,
+    #responsive-menu-container:before,
+    #responsive-menu-container:after,
+    #responsive-menu-container *,
+    #responsive-menu-container *:before,
+    #responsive-menu-container *:after {
+         box-sizing: border-box;
+         margin: 0;
+         padding: 0;
+    }
+
+    #responsive-menu-container #responsive-menu-search-box,
+    #responsive-menu-container #responsive-menu-additional-content,
+    #responsive-menu-container #responsive-menu-title {
+        padding: 25px 5%;
+    }
+
+    #responsive-menu-container #responsive-menu,
+    #responsive-menu-container #responsive-menu ul {
+        width: 100%;
+    }
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu {
+        display: none;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu.responsive-menu-submenu-open {
+         display: block;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu-depth-1 a.responsive-menu-item-link {
+        padding-left: 10%;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu-depth-2 a.responsive-menu-item-link {
+        padding-left: 15%;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu-depth-3 a.responsive-menu-item-link {
+        padding-left: 20%;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu-depth-4 a.responsive-menu-item-link {
+        padding-left: 25%;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu-depth-5 a.responsive-menu-item-link {
+        padding-left: 30%;
+    }
+
+    #responsive-menu-container li.responsive-menu-item {
+        width: 100%;
+        list-style: none;
+    }
+
+    #responsive-menu-container li.responsive-menu-item a {
+        width: 100%;
+        display: block;
+        text-decoration: none;
+        padding: 0 5%;
+        position: relative;
+    }
+
+    #responsive-menu-container li.responsive-menu-item a .fa {
+        margin-right: 15px;
+    }
+
+    #responsive-menu-container li.responsive-menu-item a .responsive-menu-subarrow {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        text-align: center;
+        overflow: hidden;
+    }
+
+    #responsive-menu-container li.responsive-menu-item a .responsive-menu-subarrow  .fa {
+        margin-right: 0;
+    }
+
+    button#responsive-menu-button .responsive-menu-button-icon-inactive {
+        display: none;
+    }
+
+    button#responsive-menu-button {
+        z-index: 99999;
+        display: none;
+        overflow: hidden;
+        outline: none;
+    }
+
+    button#responsive-menu-button img {
+        max-width: 100%;
+    }
+
+    .responsive-menu-label {
+        display: inline-block;
+        font-weight: 600;
+        margin: 0 5px;
+        vertical-align: middle;
+    }
+
+    .responsive-menu-label .responsive-menu-button-text-open {
+        display: none;
+    }
+
+    .responsive-menu-accessible {
+        display: inline-block;
+    }
+
+    .responsive-menu-accessible .responsive-menu-box {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .responsive-menu-label.responsive-menu-label-top,
+    .responsive-menu-label.responsive-menu-label-bottom
+    {
+        display: block;
+        margin: 0 auto;
+    }
+
+    button#responsive-menu-button {
+        padding: 0 0;
+        display: inline-block;
+        cursor: pointer;
+        transition-property: opacity, filter;
+        transition-duration: 0.15s;
+        transition-timing-function: linear;
+        font: inherit;
+        color: inherit;
+        text-transform: none;
+        background-color: transparent;
+        border: 0;
+        margin: 0;
+        overflow: visible;
+    }
+
+    .responsive-menu-box {
+        width: 25px;
+        height: 19px;
+        display: inline-block;
+        position: relative;
+    }
+
+    .responsive-menu-inner {
+        display: block;
+        top: 50%;
+        margin-top: -1.5px;
+    }
+
+    .responsive-menu-inner,
+    .responsive-menu-inner::before,
+    .responsive-menu-inner::after {
+         width: 25px;
+         height: 3px;
+         background-color: #000000;
+         border-radius: 4px;
+         position: absolute;
+         transition-property: transform;
+         transition-duration: 0.15s;
+         transition-timing-function: ease;
+    }
+
+    .responsive-menu-open .responsive-menu-inner,
+    .responsive-menu-open .responsive-menu-inner::before,
+    .responsive-menu-open .responsive-menu-inner::after {
+        background-color: #000000;
+    }
+
+    button#responsive-menu-button:hover .responsive-menu-inner,
+    button#responsive-menu-button:hover .responsive-menu-inner::before,
+    button#responsive-menu-button:hover .responsive-menu-inner::after,
+    button#responsive-menu-button:hover .responsive-menu-open .responsive-menu-inner,
+    button#responsive-menu-button:hover .responsive-menu-open .responsive-menu-inner::before,
+    button#responsive-menu-button:hover .responsive-menu-open .responsive-menu-inner::after,
+    button#responsive-menu-button:focus .responsive-menu-inner,
+    button#responsive-menu-button:focus .responsive-menu-inner::before,
+    button#responsive-menu-button:focus .responsive-menu-inner::after,
+    button#responsive-menu-button:focus .responsive-menu-open .responsive-menu-inner,
+    button#responsive-menu-button:focus .responsive-menu-open .responsive-menu-inner::before,
+    button#responsive-menu-button:focus .responsive-menu-open .responsive-menu-inner::after {
+        background-color: #000000;
+    }
+
+    .responsive-menu-inner::before,
+    .responsive-menu-inner::after {
+         content: "";
+         display: block;
+    }
+
+    .responsive-menu-inner::before {
+         top: -8px;
+    }
+
+    .responsive-menu-inner::after {
+         bottom: -8px;
+    }
+
+            .responsive-menu-boring .responsive-menu-inner,
+.responsive-menu-boring .responsive-menu-inner::before,
+.responsive-menu-boring .responsive-menu-inner::after {
+    transition-property: none;
+}
+
+.responsive-menu-boring.is-active .responsive-menu-inner {
+    transform: rotate(45deg);
+}
+
+.responsive-menu-boring.is-active .responsive-menu-inner::before {
+    top: 0;
+    opacity: 0;
+}
+
+.responsive-menu-boring.is-active .responsive-menu-inner::after {
+    bottom: 0;
+    transform: rotate(-90deg);
+}    
+    button#responsive-menu-button {
+        width: 55px;
+        height: 55px;
+        position: fixed;
+        top: 15px;
+        right: 1%;
+            }
+
+    
+    
+    button#responsive-menu-button .responsive-menu-box {
+        color: #000000;
+    }
+
+    .responsive-menu-open button#responsive-menu-button .responsive-menu-box {
+        color: #000000;
+    }
+
+    .responsive-menu-label {
+        color: #ffffff;
+        font-size: 14px;
+        line-height: 13px;
+            }
+
+    button#responsive-menu-button {
+        display: inline-block;
+        transition: transform 0.5s, background-color 0.5s;
+    }
+
+            html.responsive-menu-open {
+            cursor: pointer;
+        }
+
+        #responsive-menu-container {
+            cursor: initial;
+        }
+    
+    
+    #responsive-menu-container {
+        width: 75%;
+        left: 0;
+        transition: transform 0.5s;
+        text-align: left;
+                                            background-image: url('../images/backgr.jpg');
+            background-size: cover;
+            }
+
+    #responsive-menu-container #responsive-menu-wrapper {
+        background: #212121;
+    }
+
+    #responsive-menu-container #responsive-menu-additional-content {
+        color: #ffffff;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box {
+        background: #ffffff;
+        border: 2px solid #dadada;
+        color: #333333;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box:-ms-input-placeholder {
+        color: #c7c7cd;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box::-webkit-input-placeholder {
+        color: #c7c7cd;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box:-moz-placeholder {
+        color: #c7c7cd;
+        opacity: 1;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box::-moz-placeholder {
+        color: #c7c7cd;
+        opacity: 1;
+    }
+
+    #responsive-menu-container .responsive-menu-item-link,
+    #responsive-menu-container #responsive-menu-title,
+    #responsive-menu-container .responsive-menu-subarrow {
+        transition: background-color 0.5s, border-color 0.5s, color 0.5s;
+    }
+
+    #responsive-menu-container #responsive-menu-title {
+        background-color: #212121;
+        color: #ffffff;
+        font-size: 20px;
+    }
+
+    #responsive-menu-container #responsive-menu-title a {
+        color: #ffffff;
+        font-size: 20px;
+        text-decoration: none;
+    }
+
+    #responsive-menu-container #responsive-menu-title a:hover {
+        color: #ffffff;
+    }
+
+    #responsive-menu-container #responsive-menu-title:hover {
+        background-color: #212121;
+        color: #ffffff;
+    }
+
+    #responsive-menu-container #responsive-menu-title:hover a {
+        color: #ffffff;
+    }
+
+    #responsive-menu-container #responsive-menu-title #responsive-menu-title-image {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    #responsive-menu-container #responsive-menu-title #responsive-menu-title-image img {
+                    }
+
+    #responsive-menu-container #responsive-menu > li.responsive-menu-item:first-child > a {
+        border-top: 1px solid #212121;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item .responsive-menu-item-link {
+        font-size: 18px;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a {
+        height: 40px;
+        line-height: 40px;
+        border-bottom: 1px solid #212121;
+        color: #000000;
+        background-color: #212121;
+            }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover {
+        color: #000000;
+        background-color: #3f3f3f;
+        border-color: #212121;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover .responsive-menu-subarrow {
+        color: #f7941e;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover .responsive-menu-subarrow.responsive-menu-subarrow-active {
+        color: #f7941e;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow {
+        right: 0;
+        height: 39px;
+        line-height: 39px;
+        width: 40px;
+        color: #f7941e;
+        border-left: 1px solid #212121;
+        background-color: #212121;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active {
+        color: #f7941e;
+        border-color: #212121;
+        background-color: #212121;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active:hover {
+        color: #f7941e;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow:hover {
+        color: #f7941e;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-current-item > .responsive-menu-item-link {
+        background-color: #212121;
+        color: #000000;
+        border-color: #212121;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-current-item > .responsive-menu-item-link:hover {
+        background-color: #3f3f3f;
+        color: #000000;
+        border-color: #3f3f3f;
+    }
+
+            #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item .responsive-menu-item-link {
+                        font-size: 13px;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a {
+            height: 40px;
+            line-height: 40px;
+            border-bottom: 1px solid #212121;
+            color: #000000;
+            background-color: #212121;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover {
+            color: #000000;
+            background-color: #3f3f3f;
+            border-color: #212121;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover .responsive-menu-subarrow {
+            color: #000000;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover .responsive-menu-subarrow.responsive-menu-subarrow-active {
+            color: #000000;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow {
+            right: 0;
+            height: 39px;
+            line-height: 39px;
+            width: 40px;
+            color: #000000;
+            border-left: 1px solid #212121;
+            background-color: #212121;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active {
+            color: #000000;
+            border-color: #212121;
+            background-color: #212121;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active:hover {
+            color: #000000;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow:hover {
+            color: #000000;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-current-item > .responsive-menu-item-link {
+            background-color: #212121;
+            color: #000000;
+            border-color: #212121;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-current-item > .responsive-menu-item-link:hover {
+            background-color: #3f3f3f;
+            color: #000000;
+            border-color: #3f3f3f;
+        }
+    
+            #responsive-menu-container #responsive-menu-title,
+        #responsive-menu-container #responsive-menu-title:hover,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow:hover,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover .responsive-menu-subarrow,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover .responsive-menu-subarrow.responsive-menu-subarrow-active,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active:hover,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item.responsive-menu-current-item > .responsive-menu-item-link,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item.responsive-menu-current-item > .responsive-menu-item-link:hover,
+        #responsive-menu-container #responsive-menu > li.responsive-menu-item:first-child > a,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow:hover,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover .responsive-menu-subarrow,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover .responsive-menu-subarrow.responsive-menu-subarrow-active,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active:hover,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item.responsive-menu-current-item > .responsive-menu-item-link,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item.responsive-menu-current-item > .responsive-menu-item-link:hover,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu > li.responsive-menu-item:first-child > a,
+        #responsive-menu-container #responsive-menu-wrapper {
+            background: none;
+            border: 0;
+        }
+    
+    }</style><script>jQuery(document).ready(function($) {
+
+    var ResponsiveMenu = {
+        trigger: '#responsive-menu-button',
+        animationSpeed: 500,
+        breakpoint: 890,
+        pushButton: 'off',
+        animationType: 'slide',
+        animationSide: 'left',
+        pageWrapper: '',
+        isOpen: false,
+        triggerTypes: 'click',
+        activeClass: 'is-active',
+        container: '#responsive-menu-container',
+        openClass: 'responsive-menu-open',
+        accordion: 'off',
+        activeArrow: '▲',
+        inactiveArrow: '▼',
+        wrapper: '#responsive-menu-wrapper',
+        closeOnBodyClick: 'on',
+        closeOnLinkClick: 'on',
+        itemTriggerSubMenu: 'off',
+        linkElement: '.responsive-menu-item-link',
+        subMenuTransitionTime: 200,
+        openMenu: function() {
+            $(this.trigger).addClass(this.activeClass);
+            $('html').addClass(this.openClass);
+            $('.responsive-menu-button-icon-active').hide();
+            $('.responsive-menu-button-icon-inactive').show();
+            this.setButtonTextOpen();
+            this.setWrapperTranslate();
+            this.isOpen = true;
+        },
+        closeMenu: function() {
+            $(this.trigger).removeClass(this.activeClass);
+            $('html').removeClass(this.openClass);
+            $('.responsive-menu-button-icon-inactive').hide();
+            $('.responsive-menu-button-icon-active').show();
+            this.setButtonText();
+            this.clearWrapperTranslate();
+            this.isOpen = false;
+        },
+        setButtonText: function() {
+            if($('.responsive-menu-button-text-open').length > 0 && $('.responsive-menu-button-text').length > 0) {
+                $('.responsive-menu-button-text-open').hide();
+                $('.responsive-menu-button-text').show();
+            }
+        },
+        setButtonTextOpen: function() {
+            if($('.responsive-menu-button-text').length > 0 && $('.responsive-menu-button-text-open').length > 0) {
+                $('.responsive-menu-button-text').hide();
+                $('.responsive-menu-button-text-open').show();
+            }
+        },
+        triggerMenu: function() {
+            this.isOpen ? this.closeMenu() : this.openMenu();
+        },
+        triggerSubArrow: function(subarrow) {
+            var sub_menu = $(subarrow).parent().siblings('.responsive-menu-submenu');
+            var self = this;
+            if(this.accordion == 'on') {
+                /* Get Top Most Parent and the siblings */
+                var top_siblings = sub_menu.parents('.responsive-menu-item-has-children').last().siblings('.responsive-menu-item-has-children');
+                var first_siblings = sub_menu.parents('.responsive-menu-item-has-children').first().siblings('.responsive-menu-item-has-children');
+                /* Close up just the top level parents to key the rest as it was */
+                top_siblings.children('.responsive-menu-submenu').slideUp(self.subMenuTransitionTime, 'linear').removeClass('responsive-menu-submenu-open');
+                /* Set each parent arrow to inactive */
+                top_siblings.each(function() {
+                    $(this).find('.responsive-menu-subarrow').first().html(self.inactiveArrow);
+                    $(this).find('.responsive-menu-subarrow').first().removeClass('responsive-menu-subarrow-active');
+                });
+                /* Now Repeat for the current item siblings */
+                first_siblings.children('.responsive-menu-submenu').slideUp(self.subMenuTransitionTime, 'linear').removeClass('responsive-menu-submenu-open');
+                first_siblings.each(function() {
+                    $(this).find('.responsive-menu-subarrow').first().html(self.inactiveArrow);
+                    $(this).find('.responsive-menu-subarrow').first().removeClass('responsive-menu-subarrow-active');
+                });
+            }
+            if(sub_menu.hasClass('responsive-menu-submenu-open')) {
+                sub_menu.slideUp(self.subMenuTransitionTime, 'linear').removeClass('responsive-menu-submenu-open');
+                $(subarrow).html(this.inactiveArrow);
+                $(subarrow).removeClass('responsive-menu-subarrow-active');
+            } else {
+                sub_menu.slideDown(self.subMenuTransitionTime, 'linear').addClass('responsive-menu-submenu-open');
+                $(subarrow).html(this.activeArrow);
+                $(subarrow).addClass('responsive-menu-subarrow-active');
+            }
+        },
+        menuHeight: function() {
+            return $(this.container).height();
+        },
+        menuWidth: function() {
+            return $(this.container).width();
+        },
+        wrapperHeight: function() {
+            return $(this.wrapper).height();
+        },
+        setWrapperTranslate: function() {
+            switch(this.animationSide) {
+                case 'left':
+                    translate = 'translateX(' + this.menuWidth() + 'px)'; break;
+                case 'right':
+                    translate = 'translateX(-' + this.menuWidth() + 'px)'; break;
+                case 'top':
+                    translate = 'translateY(' + this.wrapperHeight() + 'px)'; break;
+                case 'bottom':
+                    translate = 'translateY(-' + this.menuHeight() + 'px)'; break;
+            }
+            if(this.animationType == 'push') {
+                $(this.pageWrapper).css({'transform':translate});
+                $('html, body').css('overflow-x', 'hidden');
+            }
+            if(this.pushButton == 'on') {
+                $('#responsive-menu-button').css({'transform':translate});
+            }
+        },
+        clearWrapperTranslate: function() {
+            var self = this;
+            if(this.animationType == 'push') {
+                $(this.pageWrapper).css({'transform':''});
+                setTimeout(function() {
+                    $('html, body').css('overflow-x', '');
+                }, self.animationSpeed);
+            }
+            if(this.pushButton == 'on') {
+                $('#responsive-menu-button').css({'transform':''});
+            }
+        },
+        init: function() {
+            var self = this;
+            $(this.trigger).on(this.triggerTypes, function(e){
+                e.stopPropagation();
+                self.triggerMenu();
+            });
+            $(this.trigger).mouseup(function(){
+                $(self.trigger).blur();
+            });
+            $('.responsive-menu-subarrow').on('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                self.triggerSubArrow(this);
+            });
+            $(window).resize(function() {
+                if($(window).width() > self.breakpoint) {
+                    if(self.isOpen){
+                        self.closeMenu();
+                    }
+                } else {
+                    if($('.responsive-menu-open').length>0){
+                        self.setWrapperTranslate();
+                    }
+                }
+            });
+            if(this.closeOnLinkClick == 'on') {
+                $(this.linkElement).on('click', function(e) {
+                    e.preventDefault();
+                    /* Fix for when close menu on parent clicks is on */
+                    if(self.itemTriggerSubMenu == 'on' && $(this).is('.responsive-menu-item-has-children > ' + self.linkElement)) {
+                        return;
+                    }
+                    old_href = $(this).attr('href');
+                    old_target = typeof $(this).attr('target') == 'undefined' ? '_self' : $(this).attr('target');
+                    if(self.isOpen) {
+                        if($(e.target).closest('.responsive-menu-subarrow').length) {
+                            return;
+                        }
+                        self.closeMenu();
+                        setTimeout(function() {
+                            window.open(old_href, old_target);
+                        }, self.animationSpeed);
+                    }
+                });
+            }
+            if(this.closeOnBodyClick == 'on') {
+                $(document).on('click', 'body', function(e) {
+                    if(self.isOpen) {
+                        if($(e.target).closest('#responsive-menu-container').length || $(e.target).closest('#responsive-menu-button').length) {
+                            return;
+                        }
+                    }
+                    self.closeMenu();
+                });
+            }
+            if(this.itemTriggerSubMenu == 'on') {
+                $('.responsive-menu-item-has-children > ' + this.linkElement).on('click', function(e) {
+                    e.preventDefault();
+                    self.triggerSubArrow($(this).children('.responsive-menu-subarrow').first());
+                });
+            }
+        }
+    };
+    ResponsiveMenu.init();
+});</script> </head><body class="error404 wp-custom-logo theme-tsumugi woocommerce-no-js group-blog hfeed responsive-menu-slide-left"><div class="site"><header class="head"><div class="container-fluid"><div class="container-fluid"><div class="row"><div class="col-xs-12 col-sm-6 header_text_wrap"><div class="logo-wr"><a href="http://cafe-kitchen.ru/" class="custom-logo-link" rel="home" itemprop="url"><img width="273" height="54" src="../images/logotype.png" class="custom-logo" alt="Kitchen" itemprop="logo"></a></div></div><div class="col-xs-12 col-sm-6 text-right header_text_wrap"><div class="top-text "><div class="icon-item"><div class="icon-item-wr"><p class="pretext-phone">Call-центр:</p> <a href="tel:8 800 550 21 79" class="phonne">8 800 550 21 79</a></div><div class="icon-item-wr"><p class="pretext-phone">Банкетная служба:</p> <a href="tel:+7 926 779 0770" class="phonne">+7 926 779 0770</a></div></div></div></div></div><div class="row"><div class="col-xs-12 menu-block center-hidden"><nav id="site-navigation" class="main-navigation navbar navbar-expand-md" role="navigation"><div class="menu-menu-1-container"><ul id="primary-menu" class="menu collapse navbar-collapse"><li id="menu-item-926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-926"><a href="http://cafe-kitchen.ru/menju/">Меню</a></li><li id="menu-item-4911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4911"><a href="http://dostavka.cafe-kitchen.ru">Доставка</a></li><li id="menu-item-5295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5295"><a href="http://tort.cafe-kitchen.ru/">Торты на заказ</a></li><li id="menu-item-1667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1667"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/">Праздники</a><ul class="sub-menu"><li id="menu-item-1668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1668"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/animacionnye-geroi/">Анимационные герои</a></li><li id="menu-item-1669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1669"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/animacionnye-programmy/">Анимационные программы</a></li><li id="menu-item-1670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1670"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/kulinarnye-master-klassy/">Кулинарные мастер-классы</a></li><li id="menu-item-1674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1674"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/shou-programmy/">Шоу-программы</a></li><li id="menu-item-1673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1673"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/tvorcheskie-master-klassy/">Творческие мастер-классы</a></li><li id="menu-item-4253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4253"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/catering/">Выездное обслуживание</a></li><li id="menu-item-1672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1672"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/oformlenie/">Праздничное оформление</a></li><li id="menu-item-1671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1671"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/dopolnitelnye-uslugi/">Дополнения к празднику</a></li></ul></li><li id="menu-item-927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-927"><a href="http://cafe-kitchen.ru/cafe/">Наши кафе</a><ul class="sub-menu"><li id="menu-item-1059" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-1059"><a href="http://cafe-kitchen.ru/cafe/na-garibaldi/">На Гарибальди</a></li><li id="menu-item-1060" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-1060"><a href="http://cafe-kitchen.ru/cafe/kafe-kitchen-v-krylatskom/">В Крылатском</a></li><li id="menu-item-2133" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-2133"><a href="http://cafe-kitchen.ru/cafe/kitchen-na-grizodubovoj-new/">на Ходынке</a></li><li id="menu-item-1062" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-1062"><a href="http://cafe-kitchen.ru/cafe/na-arhitektora-vlasova/">На Архитектора Власова</a></li><li id="menu-item-1063" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-1063"><a href="http://cafe-kitchen.ru/cafe/na-udalcova/">На Удальцова</a></li><li id="menu-item-1058" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-1058"><a href="http://cafe-kitchen.ru/cafe/na-akademika-anohina/">На Академика Анохина</a></li><li id="menu-item-1056" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-1056"><a href="http://cafe-kitchen.ru/cafe/na-bolshoj-marfinskoj/">В Марфино</a></li><li id="menu-item-1057" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-1057"><a href="http://cafe-kitchen.ru/cafe/na-rodionovskoj/">В Куркино</a></li><li id="menu-item-1061" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-1061"><a href="http://cafe-kitchen.ru/cafe/v-reutove/">В Реутове</a></li><li id="menu-item-1054" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-1054"><a href="http://cafe-kitchen.ru/cafe/v-zheleznodorozhnom/">В Железнодорожном</a></li><li id="menu-item-3715" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-3715"><a href="http://cafe-kitchen.ru/cafe/mytyschi/">В Мытищах</a></li><li id="menu-item-4417" class="menu-item menu-item-type-post_type menu-item-object-cafes menu-item-4417"><a href="http://cafe-kitchen.ru/cafe/v-kommunarke/">В Коммунарке</a></li><li id="menu-item-5309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5309"><a href="http://cafe-kitchen.ru/cafe/v-govorovo/">В Говорово</a></li></ul></li><li id="menu-item-928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928"><a href="http://cafe-kitchen.ru/detskie-meropriyatiya-v-cafe/">Мероприятия</a></li><li id="menu-item-924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-924"><a href="http://cafe-kitchen.ru/o-kompanii/">О нас</a><ul class="sub-menu"><li id="menu-item-1148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1148"><a href="http://cafe-kitchen.ru/o-kompanii/cennosti/">Наши ценности</a></li><li id="menu-item-1150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150"><a href="http://cafe-kitchen.ru/o-kompanii/franshiza/">Франшиза</a></li><li id="menu-item-3424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3424"><a href="http://cafe-kitchen.ru/o-kompanii/vakansii/">Наши вакансии</a></li><li id="menu-item-1147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a href="http://cafe-kitchen.ru/o-kompanii/istoriya-sozdaniya/">История создания</a></li><li id="menu-item-1144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1144"><a href="http://cafe-kitchen.ru/o-kompanii/otzyvy/">Отзывы</a></li><li id="menu-item-1145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1145"><a href="http://cafe-kitchen.ru/o-kompanii/stati/">Статьи</a></li><li id="menu-item-1146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1146"><a href="http://cafe-kitchen.ru/o-kompanii/partnery/">Партнеры</a><ul class="sub-menu"><li id="menu-item-1143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1143"><a href="http://cafe-kitchen.ru/o-kompanii/fotogalereya/">Фотогалерея</a></li></ul></li></ul></li><li id="menu-item-923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-923"><a href="http://cafe-kitchen.ru/kontakty/">Контакты</a></li></ul></div></nav></div></div></div></div></header><div id="primary" class="content-area"><main id="main" class="site-main" role="main"><section class="error-404 not-found"><header class="page-header"><h1 class="page-title">Ой. Такой страницы не существует.</h1></header><div class="page-content"><p>Похоже, ничего не найдено. Попробуйте поискать в разделах меню или воспользуйтесь строкой поиска.</p><form role="search" method="get" class="search-form" action="http://cafe-kitchen.ru/"> <label> <span class="screen-reader-text">Найти:</span> <input type="search" class="search-field" placeholder="Поиск&hellip;" value name="s"> </label> <input type="submit" class="search-submit" value="Поиск"></form></div></section></main></div><aside id="secondary" class="widget-area" role="complementary"><section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://cafe-kitchen.ru/"> <label> <span class="screen-reader-text">Найти:</span> <input type="search" class="search-field" placeholder="Поиск&hellip;" value name="s"> </label> <input type="submit" class="search-submit" value="Поиск"></form></section><section id="recent-posts-2" class="widget widget_recent_entries"><h2 class="widget-title">Свежие записи</h2><ul><li> <a href="http://cafe-kitchen.ru/novosti/25-aprelja-torzhestvennoe-otkrytie-kitchen-v-govorovo/">25 апреля &#8212; торжественное открытие Kitchen в Говорово!</a></li><li> <a href="http://cafe-kitchen.ru/novosti/dostavka-kitchen-na-dom/">Доставка Kitchen на дом!</a></li><li> <a href="http://cafe-kitchen.ru/akcii/naggetsy-fri-v-podarok/">Кормим детей бесплатно!</a></li><li> <a href="http://cafe-kitchen.ru/novosti/akcija-dobroe-delo/">Акция &#171;Доброе дело&#187;</a></li><li> <a href="http://cafe-kitchen.ru/novosti/15-sentjabrja-torzhestvennoe-otkrytie-kitchen-v-mytishhah/">29 сентября &#8212; торжественное открытие Kitchen в Мытищах!</a></li></ul></section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Свежие комментарии</h2><ul id="recentcomments"></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Архивы</h2><ul><li><a href="http://cafe-kitchen.ru/2021/04/">Апрель 2021</a></li><li><a href="http://cafe-kitchen.ru/2020/03/">Март 2020</a></li><li><a href="http://cafe-kitchen.ru/2019/12/">Декабрь 2019</a></li><li><a href="http://cafe-kitchen.ru/2019/09/">Сентябрь 2019</a></li><li><a href="http://cafe-kitchen.ru/2019/03/">Март 2019</a></li><li><a href="http://cafe-kitchen.ru/2019/02/">Февраль 2019</a></li><li><a href="http://cafe-kitchen.ru/2019/01/">Январь 2019</a></li><li><a href="http://cafe-kitchen.ru/2018/12/">Декабрь 2018</a></li><li><a href="http://cafe-kitchen.ru/2018/10/">Октябрь 2018</a></li><li><a href="http://cafe-kitchen.ru/2018/09/">Сентябрь 2018</a></li><li><a href="http://cafe-kitchen.ru/2018/08/">Август 2018</a></li><li><a href="http://cafe-kitchen.ru/2018/07/">Июль 2018</a></li><li><a href="http://cafe-kitchen.ru/2018/06/">Июнь 2018</a></li><li><a href="http://cafe-kitchen.ru/2018/05/">Май 2018</a></li><li><a href="http://cafe-kitchen.ru/2018/04/">Апрель 2018</a></li><li><a href="http://cafe-kitchen.ru/2018/03/">Март 2018</a></li><li><a href="http://cafe-kitchen.ru/2018/02/">Февраль 2018</a></li><li><a href="http://cafe-kitchen.ru/2018/01/">Январь 2018</a></li><li><a href="http://cafe-kitchen.ru/2017/12/">Декабрь 2017</a></li><li><a href="http://cafe-kitchen.ru/2017/10/">Октябрь 2017</a></li><li><a href="http://cafe-kitchen.ru/2017/09/">Сентябрь 2017</a></li><li><a href="http://cafe-kitchen.ru/2017/08/">Август 2017</a></li><li><a href="http://cafe-kitchen.ru/2017/03/">Март 2017</a></li><li><a href="http://cafe-kitchen.ru/2017/02/">Февраль 2017</a></li><li><a href="http://cafe-kitchen.ru/2017/01/">Январь 2017</a></li><li><a href="http://cafe-kitchen.ru/2016/12/">Декабрь 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/11/">Ноябрь 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/10/">Октябрь 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/09/">Сентябрь 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/08/">Август 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/07/">Июль 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/06/">Июнь 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/05/">Май 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/04/">Апрель 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/03/">Март 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/02/">Февраль 2016</a></li><li><a href="http://cafe-kitchen.ru/2016/01/">Январь 2016</a></li><li><a href="http://cafe-kitchen.ru/2015/12/">Декабрь 2015</a></li><li><a href="http://cafe-kitchen.ru/2015/11/">Ноябрь 2015</a></li><li><a href="http://cafe-kitchen.ru/2015/10/">Октябрь 2015</a></li><li><a href="http://cafe-kitchen.ru/2015/09/">Сентябрь 2015</a></li><li><a href="http://cafe-kitchen.ru/2015/08/">Август 2015</a></li><li><a href="http://cafe-kitchen.ru/2015/07/">Июль 2015</a></li><li><a href="http://cafe-kitchen.ru/2015/06/">Июнь 2015</a></li><li><a href="http://cafe-kitchen.ru/2015/05/">Май 2015</a></li><li><a href="http://cafe-kitchen.ru/2015/04/">Апрель 2015</a></li><li><a href="http://cafe-kitchen.ru/2015/03/">Март 2015</a></li></ul></section><section id="categories-2" class="widget widget_categories"><h2 class="widget-title">Рубрики</h2><ul><li class="cat-item cat-item-8"><a href="http://cafe-kitchen.ru/akcii/" title="Будьте всегда в курсе наших скидок и спецпредложений!">Акции</a></li><li class="cat-item cat-item-1"><a href="http://cafe-kitchen.ru/bez-rubriki/">Без рубрики</a></li><li class="cat-item cat-item-59"><a href="http://cafe-kitchen.ru/events/">Мероприятия</a></li><li class="cat-item cat-item-64"><a href="http://cafe-kitchen.ru/novogodnie-elki-na-zakaz/">Новогодние елки на заказ</a></li><li class="cat-item cat-item-7"><a href="http://cafe-kitchen.ru/novosti/">Новости</a></li><li class="cat-item cat-item-57"><a href="http://cafe-kitchen.ru/stati/">Статьи</a></li><li class="cat-item cat-item-58"><a href="http://cafe-kitchen.ru/fotogalereya/">Фотогалерея</a></li></ul></section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">Мета</h2><ul><li><a rel="nofollow" href="http://cafe-kitchen.ru/wp-login.php">Войти</a></li><li><a href="http://cafe-kitchen.ru/feed/"><abbr title="Really Simple Syndication">RSS</abbr> записей</a></li><li><a href="http://cafe-kitchen.ru/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> комментариев</a></li><li><a href="https://ru.wordpress.org/" title="Сайт работает на WordPress &#8212; современной персональной платформе для публикаций.">WordPress.org</a></li></ul></section></aside><section id="contact"><div class="container-fluid"><div class="row"><div class="col-xs-12"><p class="header-text-h1 title-line3">Возникли вопросы?</p></div><div class="col-xs-12 col-sm-6 col-md-5 zaved-item text-center"><div role="form" class="wpcf7" id="wpcf7-f820-o1" lang="ru-RU" dir="ltr"><div class="screen-reader-response"></div><form action="/wp-content/themes/tsumugi/fonts/glyphicons-halflings-regular.woff2#wpcf7-f820-o1" method="post" class="wpcf7-form" novalidate="novalidate"><div style="display: none;"> <input type="hidden" name="_wpcf7" value="820"> <input type="hidden" name="_wpcf7_version" value="5.1.1"> <input type="hidden" name="_wpcf7_locale" value="ru_RU"> <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f820-o1"> <input type="hidden" name="_wpcf7_container_post" value="0"> <input type="hidden" name="g-recaptcha-response" value></div><div class="contact-form"><p class="cont-description">Задайте их нашему менеджеру</p><div class="col-xs-5 contact-label"> <label>Телефон:</label></div><div class="col-xs-7 contact-input"> <span class="wpcf7-form-control-wrap tel-134"><input type="tel" name="tel-134" value size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false"></span></div><div class="col-xs-5 contact-label"> <label>Email: </label></div><div class="col-xs-7 contact-input"> <span class="wpcf7-form-control-wrap email-435"><input type="email" name="email-435" value size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span></div><div class="col-xs-5 contact-label"> <label>Сообщение: </label></div><div class="col-xs-7 contact-input"> <span class="wpcf7-form-control-wrap textarea-396"><textarea name="textarea-396" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span></div><p><input type="submit" value="Задать вопрос" class="wpcf7-form-control wpcf7-submit btn-callback"></p></div><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div></div></section><section id="footer"><div class="container-fluid"><div class="row"><div class="col-xs-12 col-sm-3"><p class="footer-phone"><a href="tel:8 800 550 21 79">8 800 550 21 79</a></p></div></div></div><div class="map"><div class="ums_map_opts" id="mapConElem_11_94658" data-id="11" data-view-id="11_94658"><div class="umsMapDetailsContainer" id="umsMapDetailsContainer_11_94658"> <i class="umsKMLLayersPreloader fa fa-spinner fa-spin" aria-hidden="true" style="display: none;"></i><div class="ums_MapPreview " id="ultimate_maps_11_94658"></div></div><div class="umsMapMarkerFilters" id="umsMapMarkerFilters_11_94658"></div><div class="umsMapProControlsCon" id="umsMapProControlsCon_11_94658"></div><div class="umsMapProDirectionsCon" id="umsMapProDirectionsCon_11_94658"></div><div class="umsMapProKmlFilterCon" id="umsMapProKmlFilterCon_11_94658"></div><div class="umsSocialSharingShell umsSocialSharingShell_11_94658"></div><div style="clear: both;"></div></div></div></section><div style="display:none" class="fancybox-hidden"><div id="call_back"></div><div id="call_back2"><div role="form" class="wpcf7" id="wpcf7-f1916-o2" lang="ru-RU" dir="ltr"><div class="screen-reader-response"></div><form action="/wp-content/themes/tsumugi/fonts/glyphicons-halflings-regular.woff2#wpcf7-f1916-o2" method="post" class="wpcf7-form" novalidate="novalidate"><div style="display: none;"> <input type="hidden" name="_wpcf7" value="1916"> <input type="hidden" name="_wpcf7_version" value="5.1.1"> <input type="hidden" name="_wpcf7_locale" value="ru_RU"> <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1916-o2"> <input type="hidden" name="_wpcf7_container_post" value="0"> <input type="hidden" name="g-recaptcha-response" value></div><div class="popup-form"><p class="header-text-h1 title-line2">Заказать звонок</p><p>В ближайшее время наш специалист свяжется с Вами</p><div class="label-wr"> <label><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Ваше имя"></span> </label></div><div class="label-wr"> <label><span class="wpcf7-form-control-wrap tel-134"><input type="tel" name="tel-134" value size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Ваш телефон*"></span> </label></div><p><input type="submit" value="Заказать звонок" class="wpcf7-form-control wpcf7-submit second-btn"></p></div><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div> <script>// new WOW().init();</script> <script>window.addEventListener('sfsi_functions_loaded', function() {
+    if (typeof sfsi_responsive_toggle == 'function') {
+        sfsi_responsive_toggle(0);
+        // console.log('sfsi_responsive_toggle');
+
+    }
+})</script> <script>window.addEventListener('sfsi_functions_loaded', function() {
+            if (typeof sfsi_plugin_version == 'function') {
+                sfsi_plugin_version(2.60);
+            }
+        });
+
+        function sfsi_processfurther(ref) {
+            var feed_id = 'S1lSOHFsdVdkWXpYNTkxNlQ1ZnkwKzdBYTQ1U2ExcW91MW5FM1V6NWdzaTJaaXMwb3JMTGhFRHdaSVNGWjNVM1RuL2YyMlBQdVpsRDFJMnlxQm5ZSEY4SlJXcUk1ejZDVmlqeklaTzFKLzJ5UkVYdlBMT3dMYkNQMEJ3clQvMGV8bjEyVmRNM05kakgxdXhXSFRhOFMyNEU1OXNzWWdIU281MDNaVE9YbEpvZz0=';
+            var feedtype = 8;
+            var email = jQuery(ref).find('input[name="email"]').val();
+            var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if ((email != "Enter your email") && (filter.test(email))) {
+                if (feedtype == "8") {
+                    var url = "https://api.follow.it/subscription-form/" + feed_id + "/" + feedtype;
+                    window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+                    return true;
+                }
+            } else {
+                alert("Please enter email address");
+                jQuery(ref).find('input[name="email"]').focus();
+                return false;
+            }
+        }</script> <button id="responsive-menu-button" class="responsive-menu-button responsive-menu-boring
+ responsive-menu-accessible" type="button" aria-label="Menu"> <span class="responsive-menu-box"> <span class="responsive-menu-inner"></span> </span> </button><div id="responsive-menu-container" class="slide-left"><div id="responsive-menu-wrapper"><ul id="responsive-menu" class><li id="responsive-menu-item-926" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/menju/" class="responsive-menu-item-link">Меню</a></li><li id="responsive-menu-item-4911" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="http://dostavka.cafe-kitchen.ru" class="responsive-menu-item-link">Доставка</a></li><li id="responsive-menu-item-5295" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="http://tort.cafe-kitchen.ru/" class="responsive-menu-item-link">Торты на заказ</a></li><li id="responsive-menu-item-1667" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/" class="responsive-menu-item-link">Праздники<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-1"><li id="responsive-menu-item-1668" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/animacionnye-geroi/" class="responsive-menu-item-link">Анимационные герои</a></li><li id="responsive-menu-item-1669" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/animacionnye-programmy/" class="responsive-menu-item-link">Анимационные программы</a></li><li id="responsive-menu-item-1670" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/kulinarnye-master-klassy/" class="responsive-menu-item-link">Кулинарные мастер-классы</a></li><li id="responsive-menu-item-1674" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/shou-programmy/" class="responsive-menu-item-link">Шоу-программы</a></li><li id="responsive-menu-item-1673" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/tvorcheskie-master-klassy/" class="responsive-menu-item-link">Творческие мастер-классы</a></li><li id="responsive-menu-item-4253" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/catering/" class="responsive-menu-item-link">Выездное обслуживание</a></li><li id="responsive-menu-item-1672" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/oformlenie/" class="responsive-menu-item-link">Праздничное оформление</a></li><li id="responsive-menu-item-1671" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/detskie-prazdniki-v-cafe/dopolnitelnye-uslugi/" class="responsive-menu-item-link">Дополнения к празднику</a></li></ul></li><li id="responsive-menu-item-927" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a href="http://cafe-kitchen.ru/cafe/" class="responsive-menu-item-link">Наши кафе<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-1"><li id="responsive-menu-item-1059" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/na-garibaldi/" class="responsive-menu-item-link">На Гарибальди</a></li><li id="responsive-menu-item-1060" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/kafe-kitchen-v-krylatskom/" class="responsive-menu-item-link">В Крылатском</a></li><li id="responsive-menu-item-2133" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/kitchen-na-grizodubovoj-new/" class="responsive-menu-item-link">на Ходынке</a></li><li id="responsive-menu-item-1062" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/na-arhitektora-vlasova/" class="responsive-menu-item-link">На Архитектора Власова</a></li><li id="responsive-menu-item-1063" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/na-udalcova/" class="responsive-menu-item-link">На Удальцова</a></li><li id="responsive-menu-item-1058" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/na-akademika-anohina/" class="responsive-menu-item-link">На Академика Анохина</a></li><li id="responsive-menu-item-1056" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/na-bolshoj-marfinskoj/" class="responsive-menu-item-link">В Марфино</a></li><li id="responsive-menu-item-1057" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/na-rodionovskoj/" class="responsive-menu-item-link">В Куркино</a></li><li id="responsive-menu-item-1061" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/v-reutove/" class="responsive-menu-item-link">В Реутове</a></li><li id="responsive-menu-item-1054" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/v-zheleznodorozhnom/" class="responsive-menu-item-link">В Железнодорожном</a></li><li id="responsive-menu-item-3715" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/mytyschi/" class="responsive-menu-item-link">В Мытищах</a></li><li id="responsive-menu-item-4417" class=" menu-item menu-item-type-post_type menu-item-object-cafes responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/v-kommunarke/" class="responsive-menu-item-link">В Коммунарке</a></li><li id="responsive-menu-item-5309" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="http://cafe-kitchen.ru/cafe/v-govorovo/" class="responsive-menu-item-link">В Говорово</a></li></ul></li><li id="responsive-menu-item-928" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/detskie-meropriyatiya-v-cafe/" class="responsive-menu-item-link">Мероприятия</a></li><li id="responsive-menu-item-924" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a href="http://cafe-kitchen.ru/o-kompanii/" class="responsive-menu-item-link">О нас<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-1"><li id="responsive-menu-item-1148" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/o-kompanii/cennosti/" class="responsive-menu-item-link">Наши ценности</a></li><li id="responsive-menu-item-1150" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/o-kompanii/franshiza/" class="responsive-menu-item-link">Франшиза</a></li><li id="responsive-menu-item-3424" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/o-kompanii/vakansii/" class="responsive-menu-item-link">Наши вакансии</a></li><li id="responsive-menu-item-1147" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/o-kompanii/istoriya-sozdaniya/" class="responsive-menu-item-link">История создания</a></li><li id="responsive-menu-item-1144" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/o-kompanii/otzyvy/" class="responsive-menu-item-link">Отзывы</a></li><li id="responsive-menu-item-1145" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/o-kompanii/stati/" class="responsive-menu-item-link">Статьи</a></li><li id="responsive-menu-item-1146" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a href="http://cafe-kitchen.ru/o-kompanii/partnery/" class="responsive-menu-item-link">Партнеры<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li id="responsive-menu-item-1143" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/o-kompanii/fotogalereya/" class="responsive-menu-item-link">Фотогалерея</a></li></ul></li></ul></li><li id="responsive-menu-item-923" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="http://cafe-kitchen.ru/kontakty/" class="responsive-menu-item-link">Контакты</a></li></ul></div></div> <script type="text/javascript">var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;</script>  <script>document.addEventListener(
+    'wpcf7submit',
+    function (event) {
+  fbq('track', 'Lead', {
+    "fb_integration_tracking": "contact-form-7"
+});
+},
+    false
+  );</script>  
+ <script>document.addEventListener(
+    'wpcf7submit',
+    function (event) {
+  fbq('track', 'Lead', {
+    "fb_integration_tracking": "contact-form-7"
+});
+},
+    false
+  );</script>  <script type="text/javascript">var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A300%2C%22placeholderImgSrc%22%3A%22http%3A%5C%2F%5C%2Fcafe-kitchen.ru%5C%2Fwp-content%5C%2Fplugins%5C%2Fwoocommerce%5C%2Fassets%5C%2Fimages%5C%2Fplaceholder.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Afalse%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A25%2C%22name%22%3A%22Uncategorized%22%2C%22slug%22%3A%22uncategorized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A25%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22meta_value%22%3Anull%2C%22link%22%3A%22http%3A%5C%2F%5C%2Fcafe-kitchen.ru%5C%2Fproduct-category%5C%2Funcategorized%5C%2F%22%7D%2C%7B%22term_id%22%3A27%2C%22name%22%3A%22%5Cu0414%5Cu0435%5Cu0442%5Cu0441%5Cu043a%5Cu0438%5Cu0435%20%5Cu0442%5Cu043e%5Cu0440%5Cu0442%5Cu044b%20%5Cu043d%5Cu0430%20%5Cu0437%5Cu0430%5Cu043a%5Cu0430%5Cu0437%22%2C%22slug%22%3A%22detskie-torty-na-zakaz%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A27%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A48%2C%22filter%22%3A%22raw%22%2C%22meta_value%22%3A%220%22%2C%22link%22%3A%22http%3A%5C%2F%5C%2Fcafe-kitchen.ru%5C%2Fproduct-category%5C%2Fdetskie-torty-na-zakaz%5C%2F%22%7D%2C%7B%22term_id%22%3A41%2C%22name%22%3A%22%5Cu041d%5Cu0435%5Cu0439%5Cu0442%5Cu0440%5Cu0430%5Cu043b%5Cu044c%5Cu043d%5Cu044b%5Cu0435%20%5Cu0442%5Cu043e%5Cu0440%5Cu0442%5Cu044b%22%2C%22slug%22%3A%22nejtralnye-torty%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A41%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A29%2C%22filter%22%3A%22raw%22%2C%22meta_value%22%3A%220%22%2C%22link%22%3A%22http%3A%5C%2F%5C%2Fcafe-kitchen.ru%5C%2Fproduct-category%5C%2Fnejtralnye-torty%5C%2F%22%7D%2C%7B%22term_id%22%3A26%2C%22name%22%3A%22%5Cu0421%5Cu0432%5Cu0430%5Cu0434%5Cu0435%5Cu0431%5Cu043d%5Cu044b%5Cu0439%20%5Cu0442%5Cu043e%5Cu0440%5Cu0442%20%5Cu043d%5Cu0430%20%5Cu0437%5Cu0430%5Cu043a%5Cu0430%5Cu0437%22%2C%22slug%22%3A%22svadebnyj-tort-na-zakaz%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A26%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A12%2C%22filter%22%3A%22raw%22%2C%22meta_value%22%3A%220%22%2C%22link%22%3A%22http%3A%5C%2F%5C%2Fcafe-kitchen.ru%5C%2Fproduct-category%5C%2Fsvadebnyj-tort-na-zakaz%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22http%3A%5C%2F%5C%2Fcafe-kitchen.ru%5C%2F%22%7D' ) );</script> <link rel="stylesheet" id="ums_leaflet_maps_api-css" href="../css/leaflet.css" type="text/css" media="all"> <script type="text/javascript" src="../js/lodash.min.js"></script> <script type="text/javascript">window.lodash = _.noConflict();</script> <script type="text/javascript" src="../js/moment.min.js"></script> <script type="text/javascript">moment.locale( 'ru_RU', {"months":["\u042f\u043d\u0432\u0430\u0440\u044c","\u0424\u0435\u0432\u0440\u0430\u043b\u044c","\u041c\u0430\u0440\u0442","\u0410\u043f\u0440\u0435\u043b\u044c","\u041c\u0430\u0439","\u0418\u044e\u043d\u044c","\u0418\u044e\u043b\u044c","\u0410\u0432\u0433\u0443\u0441\u0442","\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c","\u041e\u043a\u0442\u044f\u0431\u0440\u044c","\u041d\u043e\u044f\u0431\u0440\u044c","\u0414\u0435\u043a\u0430\u0431\u0440\u044c"],"monthsShort":["\u042f\u043d\u0432","\u0424\u0435\u0432","\u041c\u0430\u0440","\u0410\u043f\u0440","\u041c\u0430\u0439","\u0418\u044e\u043d","\u0418\u044e\u043b","\u0410\u0432\u0433","\u0421\u0435\u043d","\u041e\u043a\u0442","\u041d\u043e\u044f","\u0414\u0435\u043a"],"weekdays":["\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435","\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a","\u0412\u0442\u043e\u0440\u043d\u0438\u043a","\u0421\u0440\u0435\u0434\u0430","\u0427\u0435\u0442\u0432\u0435\u0440\u0433","\u041f\u044f\u0442\u043d\u0438\u0446\u0430","\u0421\u0443\u0431\u0431\u043e\u0442\u0430"],"weekdaysShort":["\u0412\u0441","\u041f\u043d","\u0412\u0442","\u0421\u0440","\u0427\u0442","\u041f\u0442","\u0421\u0431"],"week":{"dow":1},"longDateFormat":{"LT":"H:i","LTS":null,"L":null,"LL":"d.m.Y","LLL":"d.m.Y H:i","LLLL":null}} );</script> <script type="text/javascript" src="../js/wp-polyfill.min.js"></script> <script type="text/javascript">( 'fetch' in window ) || document.write( '<script src="http://cafe-kitchen.ru/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://cafe-kitchen.ru/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://cafe-kitchen.ru/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://cafe-kitchen.ru/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js"></scr' + 'ipt>' );</script> <script type="text/javascript" src="../js/hooks.min.js"></script> <script type="text/javascript" src="../js/i18n.min.js"></script> <script type="text/javascript" src="../js/url.min.js"></script> <script type="text/javascript">( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2020-10-29 20:15:14+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"ru"},"An unknown error occurred.":["\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u0430\u044f \u043e\u0448\u0438\u0431\u043a\u0430."],"The response is not a valid JSON response.":["\u041e\u0442\u0432\u0435\u0442 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u044b\u043c \u043e\u0442\u0432\u0435\u0442\u043e\u043c JSON."]}},"comment":{"reference":"wp-includes\/js\/dist\/api-fetch.js"}} );</script> <script type="text/javascript" src="../js/api-fetch.min.js"></script> <script type="text/javascript">wp.apiFetch.use( wp.apiFetch.createNonceMiddleware( "9c3af88364" ) );
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "http://cafe-kitchen.ru/wp-json/" ) );</script> <script type="text/javascript" src="../js/react.min.js"></script> <script type="text/javascript" src="../js/react-dom.min.js"></script> <script type="text/javascript" src="../js/escape-html.min.js"></script> <script type="text/javascript" src="../js/element.min.js"></script> <script type="text/javascript" src="../js/is-shallow-equal.min.js"></script> <script type="text/javascript" src="../js/compose.min.js"></script> <script type="text/javascript" src="../js/dom.min.js"></script> <script type="text/javascript" src="../js/html-entities.min.js"></script> <script type="text/javascript">( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2020-10-29 20:15:14+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"ru"},"Backtick":["\u041a\u0430\u0432\u044b\u0447\u043a\u0430"],"Period":["\u0422\u043e\u0447\u043a\u0430"],"Comma":["\u0417\u0430\u043f\u044f\u0442\u0430\u044f"]}},"comment":{"reference":"wp-includes\/js\/dist\/keycodes.js"}} );</script> <script type="text/javascript" src="../js/keycodes.min.js"></script> <script type="text/javascript" src="../js/redux-routine.min.js"></script> <script type="text/javascript" src="../js/data.min.js"></script> <script type="text/javascript">( function() {
+	var userId = 0;
+	var storageKey = "WP_DATA_USER_" + userId;
+	wp.data
+		.use( wp.data.plugins.persistence, { storageKey: storageKey } )
+		.use( wp.data.plugins.controls );
+} )();</script> <script type="text/javascript" src="../js/rich-text.min.js"></script> <script type="text/javascript">( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2020-10-29 20:15:14+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"ru"},"Error loading block: %s":["\u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0431\u043b\u043e\u043a\u0430: %s"],"Number of items":["\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432"],"All":["\u0412\u0441\u0435"],"Category":["\u0420\u0443\u0431\u0440\u0438\u043a\u0430"],"Z \u2192 A":["\u042f \t \u0410"],"A \u2192 Z":["\u0410 \t \u042f"],"Oldest to Newest":["\u041e\u0442 \u0441\u0442\u0430\u0440\u044b\u0445 \u043a \u043d\u043e\u0432\u044b\u043c"],"Newest to Oldest":["\u041e\u0442 \u043d\u043e\u0432\u044b\u0445 \u043a \u0441\u0442\u0430\u0440\u044b\u043c"],"Order by":["\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u043e"],"Dismiss this notice":["\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u044d\u0442\u043e \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0435"],"Remove item":["\u0423\u0434\u0430\u043b\u0438\u0442\u044c \u043f\u0443\u043d\u043a\u0442"],"Item removed.":["\u042d\u043b\u0435\u043c\u0435\u043d\u0442 \u0443\u0434\u0430\u043b\u0435\u043d."],"Item added.":["\u042d\u043b\u0435\u043c\u0435\u043d\u0442 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d."],"Separate with commas":["\u0420\u0430\u0437\u0434\u0435\u043b\u0438\u0442\u044c \u0437\u0430\u043f\u044f\u0442\u044b\u043c\u0438"],"Add item":["\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u044d\u043b\u0435\u043c\u0435\u043d\u0442"],"%1$s (%2$s of %3$s)":["%1$s (%2$s \u0438\u0437 %3$s)"],"Custom font size":["\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u0448\u0440\u0438\u0444\u0442\u0430"],"Font size: %s":["\u0420\u0430\u0437\u043c\u0435\u0440 \u0448\u0440\u0438\u0444\u0442\u0430: %s"],"Font Size":["\u0420\u0430\u0437\u043c\u0435\u0440 \u0448\u0440\u0438\u0444\u0442\u0430"],"font size name\u0004Custom":["\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u044b\u0439"],"font size name\u0004Normal":["\u041e\u0431\u044b\u0447\u043d\u044b\u0439"],"Reset":["\u0421\u0431\u0440\u043e\u0441\u0438\u0442\u044c"],"Calendar Help":["\u041f\u043e\u043c\u043e\u0449\u044c \u043f\u043e \u043a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044e"],"Go to the first (home) or last (end) day of a week.":["\u041f\u0435\u0440\u0435\u0439\u0434\u0438\u0442\u0435 \u0432 \u043f\u0435\u0440\u0432\u044b\u0439 (home) \u0438\u043b\u0438 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 (end) \u0434\u0435\u043d\u044c \u043d\u0435\u0434\u0435\u043b\u0438."],"Home\/End":["Home\/End"],"Home and End":["Home \u0438 End"],"Move backward (PgUp) or forward (PgDn) by one month.":["\u041f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u043d\u0430\u0437\u0430\u0434 (PgUp) \u0438\u043b\u0438 \u0432\u043f\u0435\u0440\u0435\u0434 (PgDn) \u043d\u0430 \u043e\u0434\u0438\u043d \u043c\u0435\u0441\u044f\u0446."],"PgUp\/PgDn":["PgUp\/PgDn"],"Page Up and Page Down":["Page Up \u0438 Page Down"],"Move backward (up) or forward (down) by one week.":["\u041f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u043d\u0430\u0437\u0430\u0434 (\u0432\u0432\u0435\u0440\u0445) \u0438\u043b\u0438 \u0432\u043f\u0435\u0440\u0435\u0434 (\u0432\u043d\u0438\u0437) \u043d\u0430 \u043e\u0434\u043d\u0443 \u043d\u0435\u0434\u0435\u043b\u044e."],"Up and Down Arrows":["\u0412\u0432\u0435\u0440\u0445 \u0438 \u0412\u043d\u0438\u0437 \u0441\u0442\u0440\u0435\u043b\u043a\u0438"],"Move backward (left) or forward (right) by one day.":["\u041f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u043d\u0430\u0437\u0430\u0434 (\u0432\u043b\u0435\u0432\u043e) \u0438\u043b\u0438 \u0432\u043f\u0435\u0440\u0435\u0434 (\u0432\u043f\u0440\u0430\u0432\u043e) \u043d\u0430 \u043e\u0434\u0438\u043d \u0434\u0435\u043d\u044c."],"Left and Right Arrows":["\u0412\u043b\u0435\u0432\u043e \u0438 \u0412\u043f\u0440\u0430\u0432\u043e \u0441\u0442\u0440\u0435\u043b\u043a\u0438"],"Select the date in focus.":["\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0434\u0430\u0442\u0443 \u0432 \u0444\u043e\u043a\u0443\u0441\u0435."],"keyboard button\u0004Enter":["\u0412\u0432\u043e\u0434"],"Navigating with a keyboard":["\u041d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u044f \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u044b"],"Click the desired day to select it.":["\u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u043d\u0430 \u043d\u0443\u0436\u043d\u044b\u0439 \u0434\u0435\u043d\u044c, \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u0435\u0433\u043e."],"Click the right or left arrows to select other months in the past or the future.":["\u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u0441\u0442\u0440\u0435\u043b\u043a\u0438 \u0432\u043f\u0440\u0430\u0432\u043e \u0438\u043b\u0438 \u0432\u043b\u0435\u0432\u043e \u0434\u043b\u044f \u0432\u044b\u0431\u043e\u0440\u0430 \u0434\u0440\u0443\u0433\u0438\u0445 \u043c\u0435\u0441\u044f\u0446\u0435\u0432 \u0432 \u043f\u0440\u043e\u0448\u043b\u043e\u043c \u0438\u043b\u0438 \u0432 \u0431\u0443\u0434\u0443\u0449\u0435\u043c."],"Click to Select":["\u041d\u0430\u0436\u043c\u0438\u0442\u0435, \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0431\u0440\u0430\u0442\u044c"],"Minutes":["\u041c\u0438\u043d\u0443\u0442\u044b"],"Hours":["\u0427\u0430\u0441\u044b"],"Color: %s":["\u0426\u0432\u0435\u0442: %s"],"Color code: %s":["\u0426\u0432\u0435\u0442: %s"],"Custom color picker":["\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440 \u0446\u0432\u0435\u0442\u0430"],"Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to increase saturation, and right to decrease saturation.":["\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043a\u043b\u0430\u0432\u0438\u0448\u0438 \u0441\u043e \u0441\u0442\u0440\u0435\u043b\u043a\u0430\u043c\u0438 \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0446\u0432\u0435\u0442\u0430. \u041f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u0435 \u0432\u0432\u0435\u0440\u0445 - \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u0432\u0435\u0442\u043b\u0438\u0442\u044c \u0446\u0432\u0435\u0442, \u0432\u043d\u0438\u0437 - \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0442\u0435\u043c\u043d\u0438\u0442\u044c, \u0432\u043b\u0435\u0432\u043e - \u0447\u0442\u043e\u0431\u044b \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u043d\u0430\u0441\u044b\u0449\u0435\u043d\u043d\u043e\u0441\u0442\u044c, \u0438 \u0432\u043f\u0440\u0430\u0432\u043e - \u0447\u0442\u043e\u0431\u044b \u0443\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u043d\u0430\u0441\u044b\u0449\u0435\u043d\u043d\u043e\u0441\u0442\u044c."],"Choose a shade":["\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043e\u0442\u0442\u0435\u043d\u043e\u043a"],"Change color format":["\u0418\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0446\u0432\u0435\u0442\u043e\u0432\u043e\u0433\u043e \u0444\u043e\u0440\u043c\u0430\u0442\u0430"],"Color value in HSL":["\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0446\u0432\u0435\u0442\u0430 \u0432 HSL"],"Color value in RGB":["\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0446\u0432\u0435\u0442\u0430 \u0432 RGB"],"Color value in hexadecimal":["\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0446\u0432\u0435\u0442\u0430 \u0432 HEX-\u0444\u043e\u0440\u043c\u0430\u0442\u0435"],"Hex color mode active":["HEX \u0440\u0435\u0436\u0438\u043c \u0430\u043a\u0442\u0438\u0432\u0435\u043d"],"Hue\/saturation\/lightness mode active":["HSL \u0440\u0435\u0436\u0438\u043c \u0430\u043a\u0442\u0438\u0432\u0435\u043d"],"RGB mode active":["\u0420\u0435\u0436\u0438\u043c RGB \u0430\u043a\u0442\u0438\u0432\u0435\u043d"],"Move the arrow left or right to change hue.":["\u041f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u0435 \u0441\u0442\u0440\u0435\u043b\u043a\u0443 \u0432\u043b\u0435\u0432\u043e \u0438\u043b\u0438 \u0432\u043f\u0440\u0430\u0432\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u043e\u0442\u0442\u0435\u043d\u043e\u043a."],"Hue value in degrees, from 0 to 359.":["\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043e\u0442\u0442\u0435\u043d\u043a\u0430 \u0432 \u0433\u0440\u0430\u0434\u0443\u0441\u0430\u0445, \u043e\u0442 0 \u0434\u043e 359."],"Alpha value, from 0 (transparent) to 1 (fully opaque).":["\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0430\u043b\u044c\u0444\u0430, \u043e\u0442 0 (\u043f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u044b\u0439) \u0434\u043e 1 (\u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u043d\u0435\u043f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u044b\u0439)."],"No results.":["\u041d\u0435\u0442 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u0432."],"%d result found, use up and down arrow keys to navigate.":["\u041d\u0430\u0439\u0434\u0435\u043d %d \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0441\u0442\u0440\u0435\u043b\u043a\u0438 \u043d\u0430 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u0435 \u0434\u043b\u044f \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u0438.","\u041d\u0430\u0439\u0434\u0435\u043d\u043e %d \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0441\u0442\u0440\u0435\u043b\u043a\u0438 \u043d\u0430 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u0435 \u0434\u043b\u044f \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u0438.","\u041d\u0430\u0439\u0434\u0435\u043d\u043e %d \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u0432. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0441\u0442\u0440\u0435\u043b\u043a\u0438 \u043d\u0430 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u0435 \u0434\u043b\u044f \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u0438."],"Close dialog":["\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043e\u043a\u043d\u043e"],"Time":["\u0412\u0440\u0435\u043c\u044f"],"Day":["\u0414\u0435\u043d\u044c"],"Month":["\u041c\u0435\u0441\u044f\u0446"],"Date":["\u0414\u0430\u0442\u0430"],"PM":["\u041f\u041f"],"AM":["\u0414\u041f"],"December":["\u0414\u0435\u043a\u0430\u0431\u0440\u044c"],"November":["\u041d\u043e\u044f\u0431\u0440\u044c"],"October":["\u041e\u043a\u0442\u044f\u0431\u0440\u044c"],"September":["\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c"],"August":["\u0410\u0432\u0433\u0443\u0441\u0442"],"July":["\u0418\u044e\u043b\u044c"],"June":["\u0418\u044e\u043d\u044c"],"May":["\u041c\u0430\u0439"],"April":["\u0410\u043f\u0440\u0435\u043b\u044c"],"March":["\u041c\u0430\u0440\u0442"],"February":["\u0424\u0435\u0432\u0440\u0430\u043b\u044c"],"January":["\u042f\u043d\u0432\u0430\u0440\u044c"],"Year":["\u0413\u043e\u0434"],"Custom Size":["\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u044b\u0439"],"Drop files to upload":["\u041f\u0435\u0440\u0435\u0442\u0430\u0449\u0438\u0442\u0435 \u0444\u0430\u0439\u043b\u044b \u0441\u044e\u0434\u0430"],"(opens in a new tab)":["(\u043e\u0442\u043a\u0440\u043e\u0435\u0442\u0441\u044f \u0432 \u043d\u043e\u0432\u043e\u0439 \u0432\u043a\u043b\u0430\u0434\u043a\u0435)"],"Clear":["\u0421\u0431\u0440\u043e\u0441"],"Close":["\u0417\u0430\u043a\u0440\u044b\u0442\u044c"],"No results found.":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u0432 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e."]}},"comment":{"reference":"wp-includes\/js\/dist\/components.js"}} );</script> <script type="text/javascript" src="../js/components.min.js"></script> <script type="text/javascript">( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "woo-gutenberg-products-block", { "locale_data": { "messages": { "": {} } } } );</script> <script type="text/javascript">var wpcf7 = {"apiSettings":{"root":"http:\/\/cafe-kitchen.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};</script> <script type="text/javascript">var sfsi_icon_ajax_object = {"ajax_url":"http:\/\/cafe-kitchen.ru\/wp-admin\/admin-ajax.php"};
+var sfsi_icon_ajax_object = {"ajax_url":"http:\/\/cafe-kitchen.ru\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/cafe-kitchen.ru\/wp-content\/plugins\/ultimate-social-media-icons\/"};</script> <script type="text/javascript">var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u043a\u043e\u0440\u0437\u0438\u043d\u044b","cart_url":"http:\/\/cafe-kitchen.ru","is_cart":"","cart_redirect_after_add":"no"};</script> <script type="text/javascript">var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};</script> <script type="text/javascript">var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_900218a7713c8ef0b0d8ba13107cb1cb","fragment_name":"wc_fragments_900218a7713c8ef0b0d8ba13107cb1cb"};</script> <script type="text/javascript">var spuvar = {"is_admin":"","disable_style":"","ajax_mode":"","ajax_url":"http:\/\/cafe-kitchen.ru\/wp-admin\/admin-ajax.php","ajax_mode_url":"http:\/\/cafe-kitchen.ru\/?spu_action=spu_load","pid":"0","is_front_page":"","is_category":"","site_url":"http:\/\/cafe-kitchen.ru","is_archive":"","is_search":"","is_preview":"","seconds_confirmation_close":"5"};
+var spuvar_social = [];</script> <script type="text/javascript" src="../js/js.js"></script> <script type="text/javascript">var wpgmp_local = {"all_location":"All","show_locations":"Show Locations","sort_by":"Sort by","wpgmp_not_working":"not working...","place_icon_url":"http:\/\/cafe-kitchen.ru\/wp-content\/plugins\/wp-google-map-plugin\/assets\/images\/icons\/"};</script> <script type="text/javascript">var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':true,'enableEscapeButton':true,'autoScale':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+/* Inline */
+jQuery('a.fancybox-inline,area.fancybox-inline,li.fancybox-inline a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'inline','autoDimensions':true,'scrolling':'no','easingIn':'easeOutBack','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':false}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);</script> <script type="text/javascript">var UMS_DATA = {"siteUrl":"http:\/\/cafe-kitchen.ru\/","imgPath":"http:\/\/cafe-kitchen.ru\/wp-content\/plugins\/ultimate-maps-by-supsystic\/img\/","cssPath":"http:\/\/cafe-kitchen.ru\/wp-content\/plugins\/ultimate-maps-by-supsystic\/css\/","modPath":"http:\/\/cafe-kitchen.ru\/wp-content\/plugins\/ultimate-maps-by-supsystic\/modules\/","loader":"http:\/\/cafe-kitchen.ru\/wp-content\/plugins\/ultimate-maps-by-supsystic\/img\/loading.gif","close":"http:\/\/cafe-kitchen.ru\/wp-content\/plugins\/ultimate-maps-by-supsystic\/img\/cross.gif","ajaxurl":"http:\/\/cafe-kitchen.ru\/wp-admin\/admin-ajax.php","UMS_CODE":"ums","isAdmin":"","engine":"leaflet","mapboxKey":"","thunderforestKey":""};</script> <script type="text/javascript">var umsLeaFletTypes__leaflet = {"https:\/\/{s}.tile.openstreetmap.org\/{z}\/{x}\/{y}.png":{"label":"Default","attr":"&copy; <a href=\"https:\/\/www.openstreetmap.org\/copyright\">OpenStreetMap<\/a> contributors"},"https:\/\/{s}.tile.opentopomap.org\/{z}\/{x}\/{y}.png":{"label":"OpenTopoMap","attr":"Map data: &copy; <a href=\"http:\/\/www.openstreetmap.org\/copyright\">OpenStreetMap<\/a>, <a href=\"http:\/\/viewfinderpanoramas.org\">SRTM<\/a> | Map style: &copy; <a href=\"https:\/\/opentopomap.org\">OpenTopoMap<\/a> (<a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\">CC-BY-SA<\/a>)"},"https:\/\/maps.wikimedia.org\/osm-intl\/{z}\/{x}\/{y}{r}.png":{"label":"Wikimedia Labs","attr":"Wikimedia maps | Map data &copy; <a href=\"https:\/\/openstreetmap.org\/copyright\">OpenStreetMap contributors<\/a>"},"https:\/\/maps.wikimedia.org\/osm\/{z}\/{x}\/{y}{r}.png":"Wikimedia Labs No Labels","http:\/\/{s}.tiles.wmflabs.org\/osm\/{z}\/{x}\/{y}.png":"Wikimedia Labs OSM","http:\/\/{s}.tiles.wmflabs.org\/osm-no-labels\/{z}\/{x}\/{y}.png":"Wikimedia Labs OSM No Labels","http:\/\/{s}.tiles.wmflabs.org\/bw-mapnik\/{z}\/{x}\/{y}.png":"Black and White","http:\/\/{s}.tiles.wmflabs.org\/hillshading\/{z}\/{x}\/{y}.png":"Hill Shading","http:\/\/{s}.tiles.wmflabs.org\/hikebike\/{z}\/{x}\/{y}.png":"Hike and Bike","https:\/\/{s}.tile.openstreetmap.se\/hydda\/base\/{z}\/{x}\/{y}.png":"Hydda Base","https:\/\/stamen-tiles-{s}.a.ssl.fastly.net\/toner\/{z}\/{x}\/{y}{r}.png":{"label":"Stamen Toner","attr":"Map tiles by <a href=\"http:\/\/stamen.com\">Stamen Design<\/a>, <a href=\"http:\/\/creativecommons.org\/licenses\/by\/3.0\">CC BY 3.0<\/a> &mdash; Map data &copy; <a href=\"http:\/\/www.openstreetmap.org\/copyright\">OpenStreetMap<\/a>"},"https:\/\/stamen-tiles-{s}.a.ssl.fastly.net\/toner-background\/{z}\/{x}\/{y}{r}.png":"Stamen Background","https:\/\/stamen-tiles-{s}.a.ssl.fastly.net\/toner-lite\/{z}\/{x}\/{y}{r}.png":"Stamen Lite","https:\/\/stamen-tiles-{s}.a.ssl.fastly.net\/watercolor\/{z}\/{x}\/{y}.png":"Stamen Watercolor","https:\/\/stamen-tiles-{s}.a.ssl.fastly.net\/terrain\/{z}\/{x}\/{y}{r}.png":"Stamen Terrain","https:\/\/stamen-tiles-{s}.a.ssl.fastly.net\/terrain-background\/{z}\/{x}\/{y}{r}.png":"Stamen Terrain Background","https:\/\/server.arcgisonline.com\/ArcGIS\/rest\/services\/World_Street_Map\/MapServer\/tile\/{z}\/{y}\/{x}":{"label":"Esri World Street","attr":"Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012"},"https:\/\/server.arcgisonline.com\/ArcGIS\/rest\/services\/Specialty\/DeLorme_World_Base_Map\/MapServer\/tile\/{z}\/{y}\/{x}":{"label":"Esri DeLorme","attr":"Tiles &copy; Esri &mdash; Copyright: &copy;2012 DeLorme"},"https:\/\/server.arcgisonline.com\/ArcGIS\/rest\/services\/Ocean_Basemap\/MapServer\/tile\/{z}\/{y}\/{x}":{"label":"Esri Ocean Base","attr":"Tiles &copy; Esri &mdash; Sources: GEBCO, NOAA, CHS, OSU, UNH, CSUMB, National Geographic, DeLorme, NAVTEQ, and Esri"}};</script> <script type="text/javascript" src="../js/leaflet.js"></script> <script type="text/javascript">var umsAllMapsInfo = [{"id":"11","title":"\u0412\u0441\u0435 \u041a\u0438\u0442\u0447\u0435\u043d\u044b","engine":null,"params":{"width_units":"%","membershipEnable":"0","adapt_map_to_screen_height":"","type":null,"map_type":"https:\/\/{s}.tile.openstreetmap.org\/{z}\/{x}\/{y}.png","map_display_mode":"map","map_center":{"address":"10 \u04413, \u041a\u0430\u0437\u0430\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0443\u043b\u043e\u043a, \u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u0433\u043e\u0440\u043a\u0430, \u0425\u0438\u0442\u0440\u043e\u0432\u043a\u0430, \u0411\u0430\u0441\u043c\u0430\u043d\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 109028, \u0420\u043e\u0441\u0441\u0438\u044f","coord_x":"55.75617711573045","coord_y":"37.65122509031373"},"language":null,"enable_zoom":null,"enable_mouse_zoom":null,"mouse_wheel_zoom":"0","zoom_type":null,"zoom":"9","zoom_mobile":"8","zoom_min":"9","zoom_max":"18","navigation_bar_mode":"full","zoom_control":null,"dbl_click_zoom":"1","street_view_control":null,"pan_control":null,"overview_control":null,"draggable":"1","map_stylization":null,"marker_title_color":"#000000","marker_title_size":"19","marker_title_size_units":"px","marker_desc_size":"13","marker_desc_size_units":"px","hide_marker_tooltip":null,"center_on_cur_marker_infownd":null,"marker_infownd_type":null,"marker_infownd_hide_close_btn":null,"marker_infownd_width":"200","marker_infownd_width_units":"auto","marker_infownd_height":"100","marker_infownd_height_units":"auto","marker_infownd_bg_color":"#FFFFFF","marker_clasterer":"none","marker_clasterer_icon":null,"marker_clasterer_icon_width":null,"marker_clasterer_icon_height":null,"marker_clasterer_grid_size":"60","marker_filter_color":null,"marker_filter_button_title":null,"markers_list_type":"","markers_list_color":"#55BA68","is_static":null,"hide_empty_block":null,"autoplay_slider":null,"slide_duration":null,"view_id":"11_94658","view_html_id":"ultimate_maps_11_94658","id":"11","ss_html":""},"html_options":{"width":"100","height":"650"},"create_date":"2021-04-22 15:27:49","markers":[{"id":"21","title":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0423\u0434\u0430\u043b\u044c\u0446\u043e\u0432\u0430 15","description":"","coord_x":"55.67262","coord_y":"37.514611","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2019-06-04 10:14:24","params":{"marker_link_src":"","title_is_link":false},"sort_order":"1","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"20","title":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b\u0438\u0446\u0430 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u0410\u043d\u043e\u0445\u0438\u043d\u0430 13","description":"","coord_x":"55.65634","coord_y":"37.472218","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2019-06-04 10:07:06","params":{"marker_link_src":"","title_is_link":false},"sort_order":"2","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"19","title":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0420\u043e\u0434\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430 12","description":"","coord_x":"55.893849","coord_y":"37.389486","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2019-06-04 10:06:17","params":{"marker_link_src":"","title_is_link":false},"sort_order":"3","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"18","title":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041c\u0430\u0440\u0444\u0438\u043d\u0441\u043a\u0430\u044f 4 \u043a\u043e\u0440\u043f\u0443\u0441 1","description":"","coord_x":"55.82041885907114","coord_y":"37.59796142578126","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2019-06-04 10:03:47","params":{"marker_link_src":"","title_is_link":false},"sort_order":"4","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"17","title":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b\u0438\u0446\u0430 \u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440\u0430 \u0412\u043b\u0430\u0441\u043e\u0432\u0430 18","description":"","coord_x":"55.77193853272883","coord_y":"37.64196133626751","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2019-06-04 10:02:41","params":{"marker_link_src":"","title_is_link":false},"sort_order":"5","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"16","title":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b\u0438\u0446\u0430 \u0413\u0430\u0440\u0438\u0431\u0430\u043b\u044c\u0434\u0438 6 \u043a\u043e\u0440\u043f\u0443\u0441 1","description":"","coord_x":"55.6761408","coord_y":"37.5365541","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2019-06-04 10:01:45","params":{"marker_link_src":"","title_is_link":false},"sort_order":"6","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"15","title":"\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u044b\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, 33, \u0420\u0435\u0443\u0442\u043e\u0432","description":"","coord_x":"55.7514661","coord_y":"37.8699572","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2019-06-04 10:01:02","params":{"marker_link_src":"","title_is_link":false},"sort_order":"7","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"14","title":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0413\u0440\u0438\u0437\u043e\u0434\u0443\u0431\u043e\u0432\u043e\u0439, \u0434\u043e\u043c 4 \u043a\u043e\u0440\u043f\u0443\u0441 4","description":"","coord_x":"55.785625573096944","coord_y":"37.5213787570176","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2019-06-04 10:00:24","params":{"marker_link_src":"","title_is_link":false},"sort_order":"8","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"13","title":"\u0433. \u041c\u043e\u0441\u043a\u0432\u0430, \u041a\u0440\u044b\u043b\u0430\u0442\u0441\u043a\u0438\u0435 \u0425\u043e\u043b\u043c\u044b, \u0434\u043e\u043c 33, \u043a\u043e\u0440\u043f\u0443\u0441 3","description":"","coord_x":"55.76297700634802","coord_y":"37.463359807896026","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2019-06-04 09:58:49","params":{"marker_link_src":"","title_is_link":false},"sort_order":"9","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"12","title":"\u0433. \u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439, \u0443\u043b. \u041c\u0430\u044f\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e, \u0434. 24\u0430","description":"","coord_x":"55.7455958","coord_y":"38.0007525","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2019-06-04 09:57:45","params":{"marker_link_src":"","title_is_link":false},"sort_order":"10","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"24","title":"Kitchen \u041a\u043e\u043c\u043c\u0443\u043d\u0430\u0440\u043a\u0430","description":"","coord_x":"55.54453","coord_y":"37.48689","icon":"48","map_id":"11","marker_group_id":"0","address":"\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u044b \u041c\u043e\u043d\u0430\u0445\u043e\u0432\u043e\u0439, \u041a\u043e\u043c\u043c\u0443\u043d\u0430\u0440\u043a\u0430, \u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 142770, \u0420\u043e\u0441\u0441\u0438\u044f","animation":null,"create_date":"2020-01-14 09:52:51","params":{"marker_link_src":"","title_is_link":false},"sort_order":"11","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":["0"],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"25","title":"Kitchen \u041c\u044b\u0442\u0438\u0449\u0438","description":"","coord_x":"55.91208175","coord_y":"37.738730604401","icon":"48","map_id":"11","marker_group_id":"0","address":"30\/1, \u041d\u043e\u0432\u043e\u043c\u044b\u0442\u0438\u0449\u0438\u043d\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0428\u0430\u0440\u0430\u043f\u043e\u0432\u043a\u0430, \u041c\u044b\u0442\u0438\u0449\u0438, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041c\u044b\u0442\u0438\u0449\u0438, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 141002, \u0420\u043e\u0441\u0441\u0438\u044f","animation":null,"create_date":"2020-01-14 09:58:45","params":{"marker_link_src":"","title_is_link":false},"sort_order":"12","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}},{"id":"27","title":"Kitchen \u0432 \u0413\u043e\u0432\u043e\u0440\u043e\u0432\u043e","description":"","coord_x":"55.65194","coord_y":"37.42358","icon":"48","map_id":"11","marker_group_id":"0","address":"","animation":null,"create_date":"2021-04-22 15:27:47","params":{"marker_link_src":"","title_is_link":false},"sort_order":"13","user_id":null,"period_from":null,"period_to":null,"hash":null,"marker_group_ids":[],"icon_data":{"id":"48","title":"local_icon1","description":"","path":"http:\/\/cafe-kitchen.ru\/wp-content\/uploads\/2019\/03\/local_icon1.png","width":"30","height":"30","is_def":"0"}}],"original_id":"11","view_id":"11_94658","view_html_id":"ultimate_maps_11_94658"}];</script> </div> <script type="text/javascript" defer src="../js/autoptimize_d615704c949dcb70d0e8b298aa438c1f.js"></script><script data-cfasync="false">!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){function e(){t.media=a}var a=t.media||"all";t.addEventListener?t.addEventListener("load",e):t.attachEvent&&t.attachEvent("onload",e),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(e,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);</script></body></html>
